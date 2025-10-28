@@ -1,5 +1,5 @@
 # Liverpool-2025
-This repository contains code for Liverpool FC 2024/25 Season 
+**This repository contains code for Liverpool FC 2024/25 Season**
 * The following information is represented as a Bar/pie chart:
 * Max Attendance by Squad and Stadium name
 * Top Goal scorers for the season
